@@ -1,0 +1,21 @@
+nav {
+    background-color: rgb(80, 196, 211);
+    color: white;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+ul{
+    background-color: aqua;
+    color: white;
+}
+
+#na {
+    background-color: rgb(75, 24, 104);
+    color: white;
+}
